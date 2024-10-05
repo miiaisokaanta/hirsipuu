@@ -1,0 +1,7 @@
+/*border color changes when you click input box to start writing*/
+
+input:focus{
+    border-color: rgb(15, 111, 255);
+    border-radius: 3px;
+    outline: none;  /*removes the ordinary outline*/
+}
